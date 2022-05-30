@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-
+#Änderung
 #Variable setzen
 zahl1=$1
 zahl2=$2
